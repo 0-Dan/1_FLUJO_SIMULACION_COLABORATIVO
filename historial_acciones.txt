@@ -1,0 +1,24 @@
+me he creado en la carpeta .ssh un archivo config
+
+# Cuenta principal
+Host github.com
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id_rsa
+
+# Segunda cuenta
+Host github-second
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id_rsa_1Dan1
+
+de esta manera tengo dos cuentas con ssh autentificadas en mi ordenador
+
+cuando trabaje con la cuenta principal 0-Dan todo igual
+
+pero cuando trabaje con la cuenta secundaria 1-Dan1 tendre que tener en cuenta
+
+git clone git@github-second:1-Dan1/1_FLUJO_SIMULACION_COLABORATIVO.git
+
+git@github-second:!!!!
+
