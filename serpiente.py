@@ -78,7 +78,13 @@ def start_game():
     
 start_game()
 
+
 # clonado, modificado total y a ver si lo logro
 
 
     
+
+
+
+    
+
