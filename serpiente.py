@@ -95,6 +95,8 @@ while True:
     # w es la ventana y tenemos añadiendo ( 1  posicion x, posicion y la representacion de la cabeza curses.ACS_CKBOARD )
 
     w.addch(int(snake[0][0]), int(snake[0][1]), curses.ACS_CKBOARD)
+    
+    # prueba github
 
 
     
