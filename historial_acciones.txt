@@ -22,3 +22,10 @@ git clone git@github-second:1-Dan1/1_FLUJO_SIMULACION_COLABORATIVO.git
 
 git@github-second:!!!!
 
+////////////
+
+CAMBIO USUARIO LOCAL DE GIT PARA QUE SE VEA LA DIFERENCIAS
+
+git config user.name "1-Dan1"
+ git config user.email "danielcerro@icloud.com"
+
