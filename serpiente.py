@@ -1,6 +1,3 @@
-
-# pip install windows-curses
-
 import curses
 import random
 
@@ -82,5 +79,12 @@ def start_game():
 start_game()
 
 
+# clonado, modificado total y a ver si lo logro
+
 
     
+
+
+
+    
+
